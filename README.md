@@ -1,4 +1,7 @@
 # KoSEnd
+
+🙌 Our paper has been accepted to ACL 2025 student research workshop! Please check out our paper at [this page](https://www.arxiv.org/abs/2507.03378).
+
 We introduce the **Korean Sentence Endings Dataset (KoSEnd)**, which includes 3,000 snetences and 45,000 sentence ending labels. These were collected from diverse source to cover a wide range of contexts. Following Korean grammar rules, we expanded each sentence into 15 variations, including declarative and imperative forms. The naturalness of these sentences was carefully reviewed through a two-stage annotation process.
 
 <img width="1335" alt="Image" src="https://github.com/user-attachments/assets/83742c04-97ad-4ee4-a6d0-cefa8dedac36" />
